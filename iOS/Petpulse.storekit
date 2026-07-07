@@ -1,0 +1,42 @@
+{
+  "identifier" : "petpulse",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21500001",
+      "localizations" : [],
+      "name" : "Petpulse Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "petpulse_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Trend graphs with species-specific normal range overlays",
+              "displayName" : "Petpulse Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "petpulse_pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Petpulse Pro Monthly",
+          "subscriptionGroupID" : "21500001",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
